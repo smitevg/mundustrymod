@@ -1,7 +1,2 @@
 range: 600
-ammo:[
-  copper: {
-    rangeChange: 500
-    lifetime:500
-  }
-]
+length: 1000
