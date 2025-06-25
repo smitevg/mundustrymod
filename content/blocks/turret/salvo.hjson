@@ -1,4 +1,4 @@
 range: 600
-segment [
+segment: [
 range :600
 }
