@@ -1,2 +1,7 @@
 range: 600
-scaleLifetimeOffset: 200
+ammo:[
+  copper: {
+    rangeChange: 500
+    lifetime:500
+  }
+]
