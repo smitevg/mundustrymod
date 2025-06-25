@@ -1,2 +1,4 @@
 range: 600
-length: 1000
+segment [
+range :600
+}
