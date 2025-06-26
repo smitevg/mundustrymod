@@ -1,3 +1,5 @@
-range: 310
-healPercent: 5
+range: 510
+requirements:[
+]
+healPercent: 6
 phaseBoost: 1
