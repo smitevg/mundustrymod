@@ -1,6 +1,6 @@
 range: 510
 requirements:[
 ]
-consumePower: 0.0001
+
 healPercent: 6
 phaseBoost: 1
