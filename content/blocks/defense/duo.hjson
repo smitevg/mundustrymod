@@ -1,5 +1,5 @@
-range: 510
 requirements:[
 ]
-health: 25000
-range: 300
+health: 59000
+maxAmmo: 40000
+
