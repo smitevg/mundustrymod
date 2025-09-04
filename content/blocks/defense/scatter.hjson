@@ -1,10 +1,5 @@
-requirements:[
-]
-health: 20000
-maxAmmo: 20000
+#requirements:[
+#]
+#health: 20000
+#maxAmmo: 20000
 
-ammoTypes: {
-    scrap: {
-        damage: 800
-    }
-}

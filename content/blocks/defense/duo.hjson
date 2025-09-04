@@ -1,5 +1,38 @@
 requirements:[
 ]
-health: 59000
-maxAmmo: 40000
+health: 70000
+maxAmmo: 10000
+range = 220
 
+ammoTypes: {
+
+    copper: {
+        damage: 9
+        speed: 2.5
+        width = 7
+        height = 9
+        lifetime = 60
+        ammoMultiplier = 2
+    }
+
+    graphite: {
+        damage: 18
+        speed: 3.5
+        width = 9
+        height = 12
+        reloadMultiplier = 0.6
+        ammoMultiplier = 4
+        lifetime = 60
+    }
+
+    silicon: {
+        damage: 360
+        speed: 6
+        width = 7
+        height = 9
+        homingPower = 0.1
+        reloadMultiplier = 1.5
+        ammoMultiplier = 5
+        lifetime = 60
+    }
+}
