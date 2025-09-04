@@ -2,7 +2,7 @@ requirements:[
 ]
 health: 70000
 maxAmmo: 10000
-range = 220
+range: 220
 
 ammoTypes: {
 
