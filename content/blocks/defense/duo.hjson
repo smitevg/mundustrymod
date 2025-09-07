@@ -1,7 +1,7 @@
 requirements:[
 ]
 health: 70000
-maxAmmo: 10000
+maxAmmo: 2000
 range: 220
 
 ammoTypes: {
@@ -32,7 +32,7 @@ ammoTypes: {
         height: 9
         homingPower: 0.1
         reloadMultiplier: 1.5
-        ammoMultiplier: 5
+        ammoMultiplier: 50
         lifetime: 60
     }
 }
