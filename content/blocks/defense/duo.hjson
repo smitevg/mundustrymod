@@ -2,7 +2,7 @@ requirements:[
 ]
 health: 70000
 maxAmmo: 2000
-range: 220
+range: 320
 
 ammoTypes: {
 
@@ -26,13 +26,13 @@ ammoTypes: {
     }
 
     silicon: {
-        damage: 360
-        speed: 6
+        damage: 990
+        speed: 9
         width: 7
         height: 9
         homingPower: 0.1
         reloadMultiplier: 1.5
         ammoMultiplier: 50
-        lifetime: 60
+        lifetime: 50
     }
 }
