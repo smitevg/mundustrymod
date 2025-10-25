@@ -33,6 +33,6 @@ ammoTypes: {
         homingPower: 0.1
         reloadMultiplier: 1.5
         ammoMultiplier: 50
-        lifetime: 50
+        lifetime: 90
     }
 }
